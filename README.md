@@ -70,7 +70,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone [https://github.com/DavidGMc/LiteraLura.git]
 ```
 
 2. Navegar al directorio del proyecto:
@@ -114,4 +114,4 @@ Si deseas contribuir al proyecto, por favor:
 [CD Gonzalez----Androidavid.com]
 
 ## Licencia
-Este proyecto está bajo la Licencia [TIPO_DE_LICENCIA]
+Este proyecto está bajo la Licencia ----[TIPO_DE_LICENCIA]
